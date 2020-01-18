@@ -1,0 +1,19 @@
+{
+
+    "liveServer.settings.donotShowInfoMsg": true,
+    "files.autoSave": "off",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.colorTheme": "Material Theme Palenight High Contrast",
+    "workbench.iconTheme": "eq-material-theme-icons-palenight",
+    "editor.formatOnSave": true,
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+    "python.jediEnabled": false,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "clang-format.language.javascript.enable": false,
+    "beautify.ignore": [
+        "**/*.js",
+        "**/*.jsx"
+    ]
+
+}
